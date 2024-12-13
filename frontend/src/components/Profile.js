@@ -78,7 +78,7 @@ const Profile = () => {
                     <p>{`@${profile?.username}`}</p>
                 </div>
                 <div className='m-4 text-sm'>
-                    <p>🌐 Exploring the web's endless possibilities with MERN Stack 🚀 | Problem solver by day, coder by night 🌙 | Coffee lover ☕ | Join me on this coding journey!</p>
+                    <p> 💻 Crafting clean code with the MERN Stack 🎨 | Solving problems, bug at a time 🐞 | Powered by tea and late nights 🌙☕|</p>
                 </div>
             </div>
         </div>
